@@ -1,0 +1,1 @@
+<resources><string name="keyboard_name">English</string><string name="accessibility_description">Hosts the optional keyboard overlay on the other Thor screen. This service does not retrieve app window contents or take screenshots.</string></resources>

@@ -1,0 +1,5 @@
+{
+  "name": "ThorKeyboard",
+  "manifest": "AndroidManifest.xml",
+  "min_api": 30
+}
